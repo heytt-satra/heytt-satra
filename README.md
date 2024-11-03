@@ -1,8 +1,8 @@
 <!-- Banner -->
 
-# Hello there 👋
+# Hello there 👋 I am Heytt Satra
 [
-https://visitor-badge.laobi.icu/badge?page_id=heytt-satra
+https://visitor-badge.laobi.icu/badge?page_id=heytt-satra.heytt-satra
 
 <!-- Coded Intro -->
 
