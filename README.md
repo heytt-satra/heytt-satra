@@ -1,8 +1,8 @@
 <!-- Banner -->
 
 # Hello there 👋
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=heytt-satra.heytt-satra)
+[
+https://visitor-badge.laobi.icu/badge?page_id=heytt-satra
 
 <!-- Coded Intro -->
 
