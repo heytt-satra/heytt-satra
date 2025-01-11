@@ -56,9 +56,9 @@
 
  <div align="center">
  
- ![Nisarg's Github Stats](https://github-readme-stats.vercel.app/api?username=heytt-satra&show_icons=true&theme=tokyonight&hide_border=true)
- ![Nisarg's Github Streak](https://streak-stats.demolab.com?user=heytt-satra&theme=tokyonight&hide_border=true&card_width=180&hide_total_contributions=true&hide_longest_streak=true)
- ![Nisarg's GitHub Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=heytt-satra&theme=tokyonight&hide_border=true&card_width=180&hide_current_streak=true&hide_longest_streak=true)
+ ![Heytt's Github Stats](https://github-readme-stats.vercel.app/api?username=heytt-satra&show_icons=true&theme=tokyonight&hide_border=true)
+ ![Heytt's Github Streak](https://streak-stats.demolab.com?user=heytt-satra&theme=tokyonight&hide_border=true&card_width=180&hide_total_contributions=true&hide_longest_streak=true)
+ ![Heytt's GitHub Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=heytt-satra&theme=tokyonight&hide_border=true&card_width=180&hide_current_streak=true&hide_longest_streak=true)
 
  </div>
 
