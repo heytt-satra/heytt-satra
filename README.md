@@ -23,6 +23,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=heytt-satra&theme=vue&no-frame=false&no-bg=true&margin-w=4)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heytt-satra&layout=compact&langs_count=12&theme=transparent&include_all_commits=true&count_private=true)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
