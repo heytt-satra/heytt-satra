@@ -23,7 +23,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=heytt-satra&theme=vue&no-frame=false&no-bg=true&margin-w=4)
 
-[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&line1=python,python,auto;react,react,auto;nodejs,node.js,auto&theme=github_dark)](https://github.com/heytt-satra)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heytt-satra&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heytt-satra&theme=transparent)
+
 
 
 
