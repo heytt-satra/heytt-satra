@@ -23,7 +23,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=heytt-satra&theme=vue&no-frame=false&no-bg=true&margin-w=4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heytt-satra&layout=compact&langs_count=12&theme=transparent&include_all_commits=true&count_private=true)
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=3&line1=python,python,auto;react,react,auto;nodejs,node.js,auto&theme=github_dark)](https://github.com/heytt-satra)
+
 
 
 ### ✍️ Random Dev Quote
