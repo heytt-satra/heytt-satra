@@ -22,10 +22,10 @@ I love building and I love reading. Most weeks split pretty evenly between the t
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=heytt-satra&show_icons=true&hide_border=true&bg_color=00000000&title_color=E0A05A&icon_color=E0A05A&text_color=948F80" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytt-satra&layout=compact&hide_border=true&bg_color=00000000&title_color=E0A05A&text_color=948F80" alt="Top languages" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=heytt-satra&show_icons=true&hide_border=true&bg_color=00000000&title_color=E0A05A&icon_color=E0A05A&text_color=948F80" alt="GitHub stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=heytt-satra&layout=compact&hide_border=true&bg_color=00000000&title_color=E0A05A&text_color=948F80" alt="Top languages" height="165" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=heytt-satra&hide_border=true&background=00000000&ring=E0A05A&fire=E0A05A&currStreakLabel=E0A05A&sideLabels=948F80&currStreakNum=ECE9DF&sideNums=ECE9DF&dates=948F80" alt="Streak stats" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=heytt-satra&hide_border=true&background=00000000&ring=E0A05A&fire=E0A05A&currStreakLabel=E0A05A&sideLabels=948F80&currStreakNum=ECE9DF&sideNums=ECE9DF&dates=948F80" alt="Streak stats" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=heytt-satra&theme=react-dark&bg_color=00000000&color=E0A05A&line=E0A05A&point=ECE9DF&hide_border=true" alt="Activity graph" width="100%" />
 
